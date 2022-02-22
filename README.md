@@ -8,4 +8,11 @@ For now here are some stats for my repositories -
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shamblett&langs_count=5&theme=tokyonight)]()
 
+A few badges -
 
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
